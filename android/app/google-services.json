@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1001666049921",
+    "project_id": "secondlife-98686",
+    "storage_bucket": "secondlife-98686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001666049921:android:dcf3b4eb64115342949a80",
+        "android_client_info": {
+          "package_name": "com.example.secondlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001666049921-020rjvbaqhjejm96cnbn2m02kahejm5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secondlife",
+            "certificate_hash": "4dfe581f789f305d8707f4b0dd11740fc62fd5c6"
+          }
+        },
+        {
+          "client_id": "1001666049921-d21jb7gu7t4r8qetbq6kg5btmjnavssj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secondlife",
+            "certificate_hash": "4d6534554ed7e48373d16d48eba44ef320bf52bc"
+          }
+        },
+        {
+          "client_id": "1001666049921-jjignu5p1ua4ejk24924eb7n4p6c72c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secondlife",
+            "certificate_hash": "70519f6f78245ff732c13a5da9f2630eb5817ff8"
+          }
+        },
+        {
+          "client_id": "1001666049921-ot9ov58bol5svsf28bfrhepd3r3cap4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nUse9y8IQZwL0HEqLTeM7L_qCJd7TII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001666049921-ot9ov58bol5svsf28bfrhepd3r3cap4n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001666049921-5ii6jgiudmkbupeanigd666flvqfd04p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondlife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
